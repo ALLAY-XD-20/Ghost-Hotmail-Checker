@@ -13,7 +13,7 @@ This project was originally GUI-based (`tkinter / customtkinter`) and has been *
 
 ## ✨ Features
 
-- 🔍 Hotmail / Outlook account checking
+- 🔍 Hotmail / Outlook account checkin
 - ⚡ Multi-threaded checking
 - 🌐 Optional proxy support
 - 🟩 Green **VALID** / 🟥 Red **INVALID** results
@@ -33,7 +33,7 @@ This project was originally GUI-based (`tkinter / customtkinter`) and has been *
 ---
 
 ## INFO
-- THIS CODE ITS NOT MY AND ITS A UPGRADE BY ME
+- THIS CODE ITS NOT MY AND ITS A UPGRADE BY @ALLAY_XD_20
 - THIS IS ONLY FOR EDUCATION PURPOSE NOT FOR ANEY ILEGAL ACTIVE
 
 ## 📦 Installation
